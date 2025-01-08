@@ -28,3 +28,22 @@
 </div>
 
 ###
+
+<p align="center">Em Desenvolvimento</p>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C# logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height="40" alt="godot logo"  />
+    <img width="12" />
+</div>
+
+###
+
+<p align="left"></p>
+
+
+
+<p align="center">-----------------------------------------------------------👾👾👾-------------------------------------------------------</p>
