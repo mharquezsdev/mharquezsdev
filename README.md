@@ -1,16 +1,34 @@
-## Conteudo em Breve 👋
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mharquezsdev.mharquezsdev&"  />
+</div>
 
-<!--
-**mharquezsdev/mharquezsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">👾 **Pablo Marques** 🔭 <br>(mharquezsdev)<br><br>*Computer Science Student | 4th Semester*  <br><br>Passionate about technology and constantly pushing my limits to learn more in this ever-evolving world!  <br>🚀 Always curious, always coding.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="500" width="1000" src="/images/_f51d4959-8125-438b-bc7f-51d3f747a9e9.jpg"  />
+</div>
+
+##
+
+<img align="right" height="150" src="/images/pablogif.gif"  />
+
+###
+
+<div align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /></a>
+   <a href="mailto:pablogmarquespessoal@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/mharquesdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+</div>
+
+###
